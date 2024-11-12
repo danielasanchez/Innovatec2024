@@ -32,7 +32,7 @@ function App() {
       
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Mis pendientes </p>
+        Mis pendientes
       </header>
       <div className='App-input'>
         <InputGroup className="mb-3">
