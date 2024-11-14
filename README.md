@@ -44,17 +44,17 @@ import Table from 'react-bootstrap/Table';
       </tbody>
 </Table>
 
-## Consulta a la API
+
 
 const apikey = "" //<-- Your api key
 //string interpolation
 const api_url = `http://www.omdbapi.com/?s=${pelicula}&apikey=${apikey}`
 
-    fetch(api_url)
-      .then(data => {
-        return data.json()
-      }).then(resultado => {
-        console.log(resultado);
-        const { Search = [] } = resultado;
-        setArreglo(Search)
-      });
+fetch(api_url)
+  .then(data => {
+       return data.json()
+   }).then(resultado => {
+       console.log(resultado);
+       const { Search = [] } = resultado;
+       setArreglo(Search)
+   });
