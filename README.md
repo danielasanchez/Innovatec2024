@@ -8,26 +8,26 @@
 [Proyecto #2](https://danielasanchez.github.io/Proyecto2/)
 
 ## Creación de proyecto utilizando npx create-react-app
--Para crear la aplicación: npx create-react-app nombre_aplicacion
+-Para crear la aplicación: **npx create-react-app nombre_aplicacion**
 
--Cambiarían de carpeta con cd nombre_aplicacion 
+-Cambiarían de carpeta con **cd nombre_aplicacion**
 
--Instalar bootstrap para react: npm install react-bootstrap bootstrap
+-Instalar bootstrap para react: **npm install react-bootstrap bootstrap**
 
--Para ejecutar la aplicación deben usar npm start
+-Para ejecutar la aplicación deben usar **npm start**
 
 ## Creación de proyecto utilizando Vite
--Para crear la aplicación: npm create vite nombre_aplicacion 
+-Para crear la aplicación: **npm create vite nombre_aplicacion** 
 
--Elegir React después JavaScript 
+-Elegir **React** después **JavaScript**
 
--Cambiarían de carpeta con cd nombre_aplicacion 
+-Cambiarían de carpeta con **cd nombre_aplicacion** 
 
--Instalan las librerías (no contiene node_modules), así que usaran: npm install 
+-Instalan las librerías (no contiene node_modules), así que usaran: **npm install** 
 
--Instalar bootstrap para react: npm install react-bootstrap bootstrap
+-Instalar bootstrap para react: **npm install react-bootstrap bootstrap**
 
--Para ejecutar la aplicación deben usar npm run dev
+-Para ejecutar la aplicación deben usar **npm run dev**
 
 ## Estilos proyecto #1
 ```css
