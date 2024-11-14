@@ -117,7 +117,11 @@ import Table from 'react-bootstrap/Table';
       </tbody>
 </Table>
 
+```
 
+## Petición API
+
+```javascript
 
 const apikey = "" //<-- Your api key
 //string interpolation
@@ -131,3 +135,4 @@ fetch(api_url)
        const { Search = [] } = resultado;
        setArreglo(Search)
    });
+```
