@@ -1,3 +1,6 @@
+## Enlaces importantes
+[React Bootstrap](https://react-bootstrap.netlify.app/)
+
 ## Importaciones necesarias
 
 Para utilizar los componentes de **React-Bootstrap** en tu proyecto, es necesario importar lo siguiente:
@@ -10,4 +13,4 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import Table from 'react-bootstrap/Table';
 
 
-[React Bootstrap](https://react-bootstrap.netlify.app/)
+
