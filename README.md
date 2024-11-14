@@ -1,5 +1,7 @@
 ## Enlaces importantes
 [React Bootstrap](https://react-bootstrap.netlify.app/)
+[Proyecto #1](https://danielasanchez.github.io/Proyecto1/)
+[Proyecto #2](https://danielasanchez.github.io/Proyecto2/)
 
 ## Importaciones necesarias
 
